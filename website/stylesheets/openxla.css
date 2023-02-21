@@ -1,15 +1,15 @@
 @import url(//fonts.googleapis.com/icon?family=Material+Icons);
 
 [data-md-color-scheme="default"] {
-  --md-primary-fg-color: #1b466c; /* OpenXLA dark blue */
-  --md-typeset-a-color: #3775e0; /* OpenXLA royal blue */
-  --md-accent-fg-color: #5ea8da; /* OpenXLA light blue */
+  --md-primary-fg-color: #1a344c; /* OpenXLA dark blue */
+  --md-typeset-a-color: #458ae5; /* OpenXLA royal blue */
+  --md-accent-fg-color: #6fb6e0; /* OpenXLA light blue */
 }
 
 [data-md-color-scheme="slate"] {
-  --md-primary-fg-color: #1b466c; /* OpenXLA dark blue */
-  --md-typeset-a-color: #5ea8da; /* OpenXLA light blue */
-  --md-accent-fg-color: #3775e0; /* OpenXLA royal blue */
+  --md-primary-fg-color: #1a344c; /* OpenXLA dark blue */
+  --md-typeset-a-color: #458ae5; /* OpenXLA light blue */
+  --md-accent-fg-color: #6fb6e0; /* OpenXLA royal blue */
   /* H1 color */
   --md-default-fg-color--light: rgba(204,234,254,0.6);
   /* Button color */
